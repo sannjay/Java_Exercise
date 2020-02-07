@@ -17,7 +17,7 @@ public class Amflag {
          }
         else
          if(r<9 && i>39) 
-         System.out.print("");
+         break;
         else
          System.out.print("=");
       }
